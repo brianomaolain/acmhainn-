@@ -1,3 +1,19 @@
+- name: Gaeilge Chonamara
+  url: https://gaeilgechonamara.com/
+  archive: https://archive.is/5X8Av
+  type: blog
+  authors: [Davis Sandefur, Galaxyrocker]
+  status: inactive
+  tags:
+    - dialectal
+    - community
 
-        
-    
+- name: Celtic Languages Wiki
+  url: https://www.celtic-languages.org/Main_Page
+  archive: https://archive.is/Hm9nO
+  type: wiki
+  authors: various
+  status: active
+  tags:
+    - community
+
