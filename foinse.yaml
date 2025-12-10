@@ -30,7 +30,7 @@
   archive: https://archive.is/KbIfP
   type: blog
   status: active
-  author: unknown
+  authors: unknown
   tags:
     - dialectal
 
@@ -39,7 +39,7 @@
   archive: 
   type: blog
   status: inactive
-  author: unknown
+  authors: unknown
   tags:
     - educational
 
