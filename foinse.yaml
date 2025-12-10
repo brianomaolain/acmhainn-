@@ -40,10 +40,20 @@
 
 - name: Tóin Gaeilge
   url: https://toingaeilge.com/
-  archive: 
+  archive: https://archive.is/G1XKE
   type: blog
   status: inactive
   authors: unknown
   tags:
     - educational
+
+- name: Tuarisc
+  url: https://tuairisc.ie/
+  archive:https://archive.is/QSDoC
+  type: news
+  authors: various 
+  status: active 
+  tags:
+    - news
+    - institutional
 
