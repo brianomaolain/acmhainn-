@@ -6,7 +6,6 @@
   status: inactive
   tags:
     - dialectal
-    - community
 
 - name: Celtic Languages Wiki
   url: https://www.celtic-languages.org/Main_Page
@@ -16,4 +15,31 @@
   status: active
   tags:
     - community
+    - educational
+
+- name: Celtic Languages 
+  url: https://discord.gg/ekaTPJn656
+  type: community
+  status: active
+  tags:
+    - discord
+    - community
+
+- name: Kilkenny Irish
+  url: https://gaeiligchillechoinnigh.blogspot.com/
+  archive: https://archive.is/KbIfP
+  type: blog
+  status: active
+  author: unknown
+  tags:
+    - dialectal
+
+- name: Tóin Gaeilge
+  url: https://toingaeilge.com/
+  archive: 
+  type: blog
+  status: inactive
+  author: unknown
+  tags:
+    - educational
 
