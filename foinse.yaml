@@ -6,6 +6,8 @@
   status: inactive
   tags:
     - dialectal
+    - connacht
+    - connemara 
 
 - name: Celtic Languages Wiki
   url: https://www.celtic-languages.org/Main_Page
@@ -33,6 +35,8 @@
   authors: unknown
   tags:
     - dialectal
+    - kilkenny 
+    - leinster 
 
 - name: Tóin Gaeilge
   url: https://toingaeilge.com/
