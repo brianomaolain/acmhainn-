@@ -2,7 +2,9 @@
   url: https://gaeilgechonamara.com/
   archive: https://archive.is/5X8Av
   type: blog
-  authors: [Davis Sandefur, Galaxyrocker]
+  authors:
+    - Davis Sandefur
+    - Galaxyrocker
   status: inactive
   tags:
     - dialectal
@@ -14,7 +16,8 @@
   url: https://www.celtic-languages.org/Main_Page
   archive: https://archive.is/Hm9nO
   type: wiki
-  authors: various
+  authors: 
+    - various
   status: active
   tags:
     - community
@@ -33,7 +36,8 @@
   archive: https://archive.is/KbIfP
   type: blog
   status: active
-  authors: unknown
+  authors: 
+    - unknown
   tags:
     - dialectal
     - kilkenny 
@@ -158,7 +162,8 @@
 - name: Dlús 
   url: https://pobailura.wordpress.com/
   type: blog
-  authors: Ciarán Dunbar
+  authors: 
+    - Ciarán Dunbar
   status: active
   tags: 
     - blog
@@ -168,7 +173,8 @@
 - name: Rathlin and Glens Irish 
   url: https://rathlingaelic.blogspot.com/
   type: blog
-  authors: Ciarán Dunbar
+  authors: 
+    - Ciarán Dunbar
   status: inactive
   tags:
     - blog
@@ -182,7 +188,8 @@
 - name: Dublin Irish
   url: https://dublingaelic.blogspot.com/
   type: blog
-  authors: unknown
+  authors: 
+    - unknown
   status: inactive
   tags:
     - blog
@@ -194,7 +201,8 @@
 - name: Ráidhteachas an Fheadha
   url: https://irishofthefews.blogspot.com/
   type: blog
-  authors: unknown
+  authors: 
+    - unknown
   status: inactive
   tags:
     - blog
@@ -206,7 +214,8 @@
 - name: Cluain Daimh Gaelach
   url: https://cluaindaimh.blogspot.com/
   type: blog
-  authors: Ciarán Dunbar
+  authors: 
+    - Ciarán Dunbar
   status: inactive
   tags:
     - blog
@@ -218,7 +227,8 @@
 - name: Gaeltacht Thír Eoghain
   url: https://tyronegaeltacht.blogspot.com/
   type: blog
-  authors: unknown
+  authors: 
+    - unknown
   status: inactive
   tags:
     - blog
@@ -230,7 +240,8 @@
 - name: Gaeltacht na Spéiríní
   url: https://gaeltachtnaspeirini.blogspot.com/
   type: blog
-  authors: Ciarán Dunbar
+  authors: 
+    - Ciarán Dunbar
   status: inactive
   tags:
     - blog
@@ -268,7 +279,8 @@
 - name: Gaedhilg Reachraidh
   url: https://gaedhilgreachraidh.blogspot.com/
   type: blog
-  authors: Jake Dalzell
+  authors: 
+    - Jake Dalzell
   status: inactive
   tags:
     - blog
@@ -280,7 +292,8 @@
 - name: Cnuasach Focal as Oirialla
   url: https://oirialla.blogspot.com/
   type: blog
-  authors: Ciarán Dunbar
+  authors: 
+    - Ciarán Dunbar
   status: inactive
   tags:
     - blog
@@ -291,7 +304,8 @@
 - name: Gaedhilg Thoraí
   url: https://gaedhilgthoraighe.blogspot.com/
   type: blog
-  authors: Jake Dalzell
+  authors: 
+    - Jake Dalzell
   status: inactive
   tags:
     - blog
@@ -304,7 +318,8 @@
 - name: Ramas Bearóide
   url: https://ramasbearoide.blogspot.com/
   type: blog
-  authors: Jake Dalzell
+  authors: 
+    - Jake Dalzell
   status: inactive
   tags:
     - blog
@@ -316,7 +331,8 @@
 - name: Rann na Feirste
   url: https://rannnafeirste.com/
   type: archive
-  authors: Malachy McKenna
+  authors: 
+    - Malachy McKenna
   tags:
     - blog
     - dialectal
@@ -327,7 +343,8 @@
 - name: Gaeilge Iorrais
   url: https://gaeilgeiorrais.ie/
   type: blog
-  authors: unknown
+  authors: 
+    - unknown
   status: unknown
   tags:
     - blog
@@ -340,7 +357,8 @@
 - name: Irish Language in County Mayo
   url: https://irishlanguageincountymayo.com/
   type: blog
-  authors: unknown
+  authors: 
+    - unknown
   status: unknown
   tags:
     - blog
@@ -351,7 +369,8 @@
 - name: gaeiglenalachan (Mionlach)
   url: https://gaeiglenalachan.wordpress.com/
   type: blog
-  authors: unknown
+  authors: 
+    - unknown
   status: active
   tags:
     - blog
@@ -363,8 +382,9 @@
 - name: Cork Irish
   url: https://corkirish.wordpress.com/
   type: blog
-  authors: D J Webb
-  status: unknown
+  authors: 
+    - D J Webb
+  status: inactive
   tags:
     - blog
     - dialectal
@@ -374,7 +394,8 @@
 - name: Muiris.net
   url: https://muiris.net/
   type: blog
-  authors: unknown
+  authors: 
+    - unknown
   status: inactive
   tags:
     - blog
@@ -386,7 +407,8 @@
 - name: Tony Ó Floinn
   url: https://tonyofloinn.weebly.com/
   type: blog
-  authors: Tony Ó Floinn
+  authors: 
+    - Tony Ó Floinn
   status: unknown
   tags:
     - blog
