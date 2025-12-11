@@ -6,8 +6,12 @@
   status: inactive
   tags:
     - dialectal
+<<<<<<< HEAD
     - connacht
     - connemara 
+=======
+    - niche
+>>>>>>> c63c862 (further entries)
 
 - name: Celtic Languages Wiki
   url: https://www.celtic-languages.org/Main_Page
@@ -35,9 +39,14 @@
   authors: unknown
   tags:
     - dialectal
+<<<<<<< HEAD
     - kilkenny 
     - leinster 
 
+=======
+    - niche
+    
+>>>>>>> c63c862 (further entries)
 - name: Tóin Gaeilge
   url: https://toingaeilge.com/
   archive: https://archive.is/G1XKE
@@ -47,6 +56,7 @@
   tags:
     - educational
 
+<<<<<<< HEAD
 - name: Tuarisc
   url: https://tuairisc.ie/
   archive:https://archive.is/QSDoC
@@ -57,3 +67,205 @@
     - news
     - institutional
 
+=======
+- name: /r/gaeilge
+  url: https://www.reddit.com/r/gaeilge/
+  type: community
+  status: active
+  tags:
+    - community
+
+- name: Irish Language Forum
+  url: https://www.irishlanguageforum.com/
+  archive: 
+  type: community
+  status: active
+  tags:
+    - forum 
+    - community
+
+- name: Daltaí na Gaeilge
+  url: https://daltai.com/
+  type: community
+  status: active
+  tags:
+    - forum
+    - community
+    - educational
+    - institutional
+
+- name: Ainm.ie
+  url: https://www.ainm.ie/
+  type: archive
+  status: active
+  tags:
+    - institutional
+    - educational
+    - archival
+    - culture
+
+- name: Logainm.ie
+  url: https://www.logainm.ie/
+  type: archive
+  status: active
+  tags:
+    - institutional
+    - educational
+    - archival
+    - culture
+
+- name: Téarma.ie
+  url: https://www.tearma.ie/
+  type: dictionary
+  status: active
+  tags:
+    - institutional
+    - educational
+    - dictionary
+
+- name: Gaois.ie
+  url: https://www.gaois.ie/
+  type: institutional
+  status: active
+  tags:
+    - institutional
+    - educational
+    - research
+
+- name: Canúint.ie
+  url: https://www.canuint.ie/
+  type: archive
+  status: active
+  tags:
+    - institutional
+    - educational
+    - research
+    - dialectal
+
+- name: Dúchas.ie
+  url: https://www.duchas.ie/en
+  type: archive
+  status: active
+  tags: 
+    - institutional
+    - educational
+    - research
+    - dialectal
+    - culture
+
+- name: Corpas.ie
+  url: https://www.corpas.ie/
+  type: archive
+  status: active
+  tags:
+    - institutional
+    - educational
+    - research
+    - dialectal
+    - culture
+
+- name: Dlús 
+  url: https://pobailura.wordpress.com/
+  type: blog
+  authors: Ciarán Dunbar
+  status: active
+  tags: 
+    - blog
+    - political
+    - culture
+
+- name: Rathlin and Glens Irish 
+  url: https://rathlingaelic.blogspot.com/
+  type: blog
+  authors: Ciarán Dunbar
+  status: inactive
+  tags:
+    - blog
+    - dialectal
+    - niche
+
+- name: Dublin Irish
+  url: https://dublingaelic.blogspot.com/
+  type: blog
+  authors: unknown
+  status: inactive
+  tags:
+    - blog
+    - dialectal
+    - niche
+
+- name: Rathlin and Glens Irish 
+  url: https://rathlingaelic.blogspot.com/
+  type: blog
+  authors: Ciarán Dunbar
+  status: inactive
+  tags:
+    - blog
+    - dialectal
+    - niche
+
+- name: Ráidhteachas an Fheadha
+  url: https://irishofthefews.blogspot.com/
+  type: blog
+  authors: unknown
+  status: inactive
+  tags:
+    - blog
+    - dialectal
+    - niche
+
+- name: Cluain Daimh Gaelach
+  url: https://cluaindaimh.blogspot.com/
+  type: blog
+  authors: Ciarán Dunbar
+  status: inactive
+  tags:
+    - blog
+    - dialectal
+    - niche
+
+- name: Gaeltacht Thír Eoghain
+  url: https://tyronegaeltacht.blogspot.com/
+  type: blog
+  authors: unknown
+  status: inactive
+  tags:
+    - blog
+    - dialectal
+    - niche
+
+- name: Gaeltacht na Spéiríní
+  url: https://gaeltachtnaspeirini.blogspot.com/
+  type: blog
+  authors: Ciarán Dunbar
+  status: inactive
+  tags:
+    - blog
+    - dialectal
+    - niche
+
+- name: Doegen.ie
+  url: https://doegen.ie/
+  type: archive
+  tags: 
+    - media
+    - audio
+    - dialectal
+
+- name: Teanglann
+  url: https://www.teanglann.ie/en/
+  type: dictionary
+  tags:
+    - institutional
+    - educational
+    - dictionary
+
+- name: Foclóir 
+  url: https://www.focloir.ie/
+  type: dictionary
+  tags:
+    - institutional
+    - educational
+    - dictionary
+
+>>>>>>> c63c862 (further entries)
