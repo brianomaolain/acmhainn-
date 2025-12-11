@@ -49,7 +49,8 @@
   archive: https://archive.is/G1XKE
   type: blog
   status: inactive
-  authors: unknown
+  authors: 
+    - unknown
   tags:
     - educational
 
@@ -57,7 +58,8 @@
   url: https://tuairisc.ie/
   archive: https://archive.is/QSDoC
   type: news
-  authors: various 
+  authors: 
+    - various 
   status: active 
   tags:
     - news
