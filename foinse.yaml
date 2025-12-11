@@ -174,6 +174,9 @@
     - blog
     - dialectal
     - niche
+    - rathlin
+    - antrim
+    - ulster
 
 - name: Dublin Irish
   url: https://dublingaelic.blogspot.com/
@@ -184,6 +187,8 @@
     - blog
     - dialectal
     - niche
+    - dublin 
+    - leinster 
 
 - name: Rathlin and Glens Irish 
   url: https://rathlingaelic.blogspot.com/
@@ -214,6 +219,8 @@
     - blog
     - dialectal
     - niche
+    - down
+    - ulster
 
 - name: Gaeltacht Thír Eoghain
   url: https://tyronegaeltacht.blogspot.com/
@@ -224,6 +231,8 @@
     - blog
     - dialectal
     - niche
+    - tyrone
+    - ulster
 
 - name: Gaeltacht na Spéiríní
   url: https://gaeltachtnaspeirini.blogspot.com/
@@ -234,6 +243,10 @@
     - blog
     - dialectal
     - niche
+    - derry
+    - tyrone
+    - sperrins
+    - ulster
 
 - name: Doegen.ie
   url: https://doegen.ie/
@@ -258,3 +271,134 @@
     - institutional
     - educational
     - dictionary
+
+- name: Gaedhilg Reachraidh
+  url: https://gaedhilgreachraidh.blogspot.com/
+  type: blog
+  authors: Jake Dalzell
+  status: inactive
+  tags:
+    - blog
+    - dialectal
+    - ulster
+    - rathlin
+    - niche
+
+- name: Cnuasach Focal as Oirialla
+  url: https://oirialla.blogspot.com/
+  type: blog
+  authors: Ciarán Dunbar
+  status: inactive
+  tags:
+    - blog
+    - dialectal
+    - ulster
+    - oriel
+
+- name: Gaedhilg Thoraí
+  url: https://gaedhilgthoraighe.blogspot.com/
+  type: blog
+  authors: Jake Dalzell
+  status: inactive
+  tags:
+    - blog
+    - dialectal
+    - ulster
+    - donegal
+    - tory-island
+    - niche
+
+- name: Ramas Bearóide
+  url: https://ramasbearoide.blogspot.com/
+  type: blog
+  authors: Jake Dalzell
+  status: inactive
+  tags:
+    - blog
+    - dialectal
+    - ulster
+    - donegal
+    - niche
+
+- name: Rann na Feirste
+  url: https://rannnafeirste.com/
+  type: archive
+  authors: Malachy McKenna
+  tags:
+    - blog
+    - dialectal
+    - ulster
+    - donegal
+    - rann-na-feirste
+
+- name: Gaeilge Iorrais
+  url: https://gaeilgeiorrais.ie/
+  type: blog
+  authors: unknown
+  status: unknown
+  tags:
+    - blog
+    - dialectal
+    - connacht
+    - mayo
+    - iorras
+    - language plan
+
+- name: Irish Language in County Mayo
+  url: https://irishlanguageincountymayo.com/
+  type: blog
+  authors: unknown
+  status: unknown
+  tags:
+    - blog
+    - dialectal
+    - connacht
+    - mayo
+
+- name: gaeiglenalachan (Mionlach)
+  url: https://gaeiglenalachan.wordpress.com/
+  type: blog
+  authors: unknown
+  status: active
+  tags:
+    - blog
+    - dialectal
+    - connacht
+    - galway
+    - mionlach
+
+- name: Cork Irish
+  url: https://corkirish.wordpress.com/
+  type: blog
+  authors: D J Webb
+  status: unknown
+  tags:
+    - blog
+    - dialectal
+    - munster
+    - cork
+
+- name: Muiris.net
+  url: https://muiris.net/
+  type: blog
+  authors: unknown
+  status: inactive
+  tags:
+    - blog
+    - dialectal
+    - munster
+    - cork
+    - cape-clear
+
+- name: Tony Ó Floinn
+  url: https://tonyofloinn.weebly.com/
+  type: blog
+  authors: Tony Ó Floinn
+  status: unknown
+  tags:
+    - blog
+    - dialectal
+    - munster
+    - cork
+    - east-cork
+
