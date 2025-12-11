@@ -6,12 +6,9 @@
   status: inactive
   tags:
     - dialectal
-<<<<<<< HEAD
     - connacht
     - connemara 
-=======
     - niche
->>>>>>> c63c862 (further entries)
 
 - name: Celtic Languages Wiki
   url: https://www.celtic-languages.org/Main_Page
@@ -39,14 +36,10 @@
   authors: unknown
   tags:
     - dialectal
-<<<<<<< HEAD
     - kilkenny 
     - leinster 
-
-=======
     - niche
     
->>>>>>> c63c862 (further entries)
 - name: Tóin Gaeilge
   url: https://toingaeilge.com/
   archive: https://archive.is/G1XKE
@@ -56,10 +49,9 @@
   tags:
     - educational
 
-<<<<<<< HEAD
 - name: Tuarisc
   url: https://tuairisc.ie/
-  archive:https://archive.is/QSDoC
+  archive: https://archive.is/QSDoC
   type: news
   authors: various 
   status: active 
@@ -67,7 +59,6 @@
     - news
     - institutional
 
-=======
 - name: /r/gaeilge
   url: https://www.reddit.com/r/gaeilge/
   type: community
@@ -267,5 +258,3 @@
     - institutional
     - educational
     - dictionary
-
->>>>>>> c63c862 (further entries)
