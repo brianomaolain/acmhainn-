@@ -177,6 +177,7 @@
     - rathlin
     - antrim
     - ulster
+    - niche
 
 - name: Dublin Irish
   url: https://dublingaelic.blogspot.com/
@@ -189,16 +190,6 @@
     - niche
     - dublin 
     - leinster 
-
-- name: Rathlin and Glens Irish 
-  url: https://rathlingaelic.blogspot.com/
-  type: blog
-  authors: Ciarán Dunbar
-  status: inactive
-  tags:
-    - blog
-    - dialectal
-    - niche
 
 - name: Ráidhteachas an Fheadha
   url: https://irishofthefews.blogspot.com/
@@ -344,7 +335,7 @@
     - connacht
     - mayo
     - iorras
-    - language plan
+    - language-plan
 
 - name: Irish Language in County Mayo
   url: https://irishlanguageincountymayo.com/
