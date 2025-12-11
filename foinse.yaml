@@ -64,6 +64,7 @@
   tags:
     - news
     - institutional
+    - media
 
 - name: /r/gaeilge
   url: https://www.reddit.com/r/gaeilge/
@@ -418,4 +419,58 @@
     - munster
     - cork
     - east-cork
+
+- name: Fuaimeanna na Gaeilge 
+  url: http://www.fuaimeanna.ie/
+  type: reference
+  authors:
+    -  Brian Ó Raghallaigh
+  tags: 
+    - phonetics
+    - audio
+    - media
+    - educational
+    - institutional
+
+- name: Gramadach na Gaeilge 
+  url: https://cuplamilefocal.github.io/gnag/
+  type: reference
+  authors:
+    - Lars Bräsicke
+  tags:
+    - grammar
+    - educational
+
+- name: Raidió na Gaeltachta
+  url: https://www.rte.ie/radio/rnag/
+  type: media
+  tags:
+    - radio 
+    - institutional
+
+- name: TG4
+  url: https://www.tg4.ie/
+  type: media
+  tags:
+    - television
+    - institutional
+
+- name: Craic le Gaeilge
+  url: https://discord.gg/eRaUKGDTdq
+  type: community
+  status: active
+  tags: 
+    - discord
+    - community
+    - educational
+
+- name: Fáinne
+  url: https://discord.gg/SaXcWw5R2u
+  type: community
+  status: active
+  tags:
+    - discord
+    - community
+    - educational
+
 
