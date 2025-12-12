@@ -473,4 +473,29 @@
     - community
     - educational
 
+- name: An Loingseach
+  url: https://www.youtube.com/user/AnLoingseach
+  type: media
+  status: active
+  tags: 
+    - youtube 
+    - educational
+
+- name: An Spideog Youtube Channel
+  url: https://www.youtube.com/@an_spideog
+  type: media
+  status: active
+  tags:
+    - youtube
+    - educational
+
+- name: An Spideog Tumblr
+  url: https://an-spideog.tumblr.com/
+  type: blog
+  status: active
+  tags:
+    - Tumblr
+    - blog
+    - educational
+
 
