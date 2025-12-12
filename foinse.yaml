@@ -57,7 +57,7 @@
 - name: Tuarisc
   url: https://tuairisc.ie/
   archive: https://archive.is/QSDoC
-  type: news
+  type: media
   authors: 
     - various 
   status: active 
@@ -473,7 +473,7 @@
     - community
     - educational
 
-- name: An Loingseach
+- name: An Loingseach Youtube Channel
   url: https://www.youtube.com/user/AnLoingseach
   type: media
   status: active
@@ -494,8 +494,68 @@
   type: blog
   status: active
   tags:
-    - Tumblr
+    - tumblr
     - blog
     - educational
 
+- name: Nuacht RTÉ
+  url: https://www.rte.ie/news/nuacht/
+  type: media
+  status: active
+  tags:
+    - news
+    - institutional
+
+- name: An Ghaeilge Youtube Channel
+  url: https://www.youtube.com/@AnGhaeilge/
+  type: media
+  status: inactive
+  tags: 
+    - youtube
+    - educational
+
+- name: Dazpatreg Youtube Channel
+  url: https://www.youtube.com/@dazpatreg
+  type: media
+  status: active
+  tags:
+    - youtube
+    - educational
+    - mayo
+    - connacht
+
+- name: Ciarán Dunbar Youtube Channel
+  url: https://www.youtube.com/@ciarandunbar263
+  type: media
+  status: active
+  tags: 
+    - youtube
+    - educational 
+    
+- name: Patchy Youtube Channel
+  url: https://www.youtube.com/@patchy642/videos
+  type: media
+  status: active
+  tags: 
+    - youtube
+    - educational
+    - mayo
+    - connacht
+
+
+- name: Dave Learns Irish Youtube Channel
+  url: https://www.youtube.com/@davelearnsirish
+  type: media
+  status: inactive
+  tags: 
+    - youtube
+    - educational
+
+- name: Seaghan Sionnach Youtube Channel
+  url: https://www.youtube.com/@smacantsionnaigh
+  type: media
+  status: active
+  tags: 
+    - youtube
+    - culture
 
