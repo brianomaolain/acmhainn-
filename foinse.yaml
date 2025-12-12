@@ -123,7 +123,7 @@
 
 - name: Gaois.ie
   url: https://www.gaois.ie/
-  type: institutional
+  type: institution
   status: active
   tags:
     - institutional
