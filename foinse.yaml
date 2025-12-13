@@ -559,3 +559,129 @@
     - youtube
     - culture
 
+- name: Cumann Chluain Árd
+  url: https://cluainard.ie/
+  type: community
+  status: active
+  tags:
+    - physical
+    - educational
+    - community
+    - culture
+
+- name: The Spoken Word - Modern Irish Texts - University of Cambridge
+  url: https://www.asnc.cam.ac.uk/spokenword/texts_mirish.php
+  type: archive
+  tags:
+    - historical
+    - institutional
+    - modern irish
+    - linguistic
+    - culture
+
+- name: An Cúntóir Teanglann
+  url: https://ancuntoir.ie/aiseanna/amhrain-2/amhranaiocht-na-scol-2/
+  type: archive
+  tags: 
+    - audio
+    - archival
+    - music
+
+- name: Cartlann
+  url: https://cartlann.org/
+  type: archive
+  tags: 
+    - archival
+    - literature
+    - historical
+    - culture
+
+- name: Ultach.org
+  url: https://eolas38.wixsite.com/ultach/
+  type: educational-resource
+  tags:
+    - educational
+    - ulster
+    - video
+
+- name: Lárionad na Gaeilge
+  url: https://snas.ie/
+  type: educational-resource
+  tags:
+    - educational
+    - institutional
+
+- name: Aistriú Litríochta
+  url: https://www.aistriulitriochta.ie/
+  type: archive
+  tags:
+    - literature
+    - culture
+
+- name: Siopa.ie
+  url: https://www.siopa.ie
+  type: commercial
+  tags:
+    - commercial
+    - literature
+
+- name: AerachAiteachGaelach
+  url: https://www.aerachaiteachgaelach.net/
+  type: community
+  tags:
+    - art 
+    - culture
+    - LGBTQ+
+    - literature
+    - music
+
+- name: Cló Iar-Chonnacht
+  url: https://cic.ie/
+  type: commercial
+  tags: 
+    - literature
+    - culture
+    - music
+
+- name: Cló Iar-Chonnacht Youtube Channel
+  url: https://www.youtube.com/@CloIarChonnacht
+  type: media
+  tags: 
+    - literature
+    - youtube
+    - culture
+    - music
+
+- name: Nós.ie
+  url: https://nos.ie/
+  type: media
+  tags:
+    - culture
+    - news
+    - music
+    - art
+    - literature
+
+- name: Bealoideas Beo
+  url: https://www.bealoideasbeo.ie/
+  type: archive
+  tags: 
+    - literature
+    - culture
+    - historical
+    - institutional
+
+- name: Gaschaint
+  url: https://gaschaint.ie/
+  type: educational-resource
+  tags:
+    - educational
+    
+
+
+
+
+
+
+
+
